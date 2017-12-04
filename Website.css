@@ -1,0 +1,16 @@
+h1 {
+	color: Red;
+	font-size: 50px;
+	background-color: Black;
+	font-weight: Bold;
+}
+}
+p {
+	background-color: white;
+}
+body {
+	background-color: black;
+	color: Blue;
+	font-weight: lighter;
+	font-size: 20px;
+}
