@@ -1,16 +1,25 @@
-h1 {
-	color: Red;
-	font-size: 50px;
-	background-color: Black;
-	font-weight: Bold;
+th {
+	color: cyan;
+	font-size: 27px;
+	background-color: black;
+	font-weight: bold;
+    font-family: Arial;
 }
-}
-p {
-	background-color: white;
+tr {
+	color: blue;
+	font-size: 20px;
+	background-color: black;
+	font-family: TimesNewRoman;
+	
 }
 body {
-	background-color: black;
-	color: Blue;
-	font-weight: lighter;
-	font-size: 20px;
+	text-align: center;
+}
+table {
+	border-style: dotted;
+	border-color: blue cyan;
+	table-layout: fixed;
+}
+p {
+	color: yellow;
 }
